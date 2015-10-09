@@ -3,3 +3,4 @@ Test from Naushad PC
 Hi, Kevin i change somthing
 
 Kevin: Naushad, I hope you are understanding the git functionality
+Kevin: Now we will learn how to get the latest changes from the server
